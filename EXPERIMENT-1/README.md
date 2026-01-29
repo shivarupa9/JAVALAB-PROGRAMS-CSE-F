@@ -27,5 +27,7 @@ public class PrimitiveDataTypes {
     }
 }
 
+
+```
 #OUTPUT:
 ![EXPERIMENT-1A OUTPUT](1a.png)
